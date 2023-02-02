@@ -21,4 +21,4 @@ This new assignment consists of two technical analysis deliverables and a writte
 - Software: [Python 3.9.12](https://www.python.org/downloads/release/python-3912/), [Visual Studio Code, 1.70.2](https://code.visualstudio.com/updates/v1_70), [Jupyter Notebook 6.4.8](https://jupyter-notebook.readthedocs.io/_/downloads/en/v6.4.8/pdf/), [Tableau Public](https://public.tableau.com/app/discover)
 
 Overview, Results & Summary:
-Link to presentation: [New York Citi Bike Analysis] (https://public.tableau.com/app/profile/alexandra.brody/viz/NewYorkCitiBikeAnalysis_16753253177960/NewYorkCitibikeAnalysis?publish=yes)
+Link to presentation: [New York Citi Bike Analysis](https://public.tableau.com/app/profile/alexandra.brody/viz/NewYorkCitiBikeAnalysis_16753253177960/NewYorkCitibikeAnalysis?publish=yes)
