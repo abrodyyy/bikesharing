@@ -22,23 +22,17 @@ After utilizing Citi Bike, a bike-sharing app while visiting New York, we have d
 ## Resuls
 Link to presentation: [New York Citi Bike Analysis](https://public.tableau.com/app/profile/alexandra.brody/viz/NewYorkCitiBikeAnalysis_16753253177960/NewYorkCitiBikeAnalysis)
 
+Story Page 1
 ![Story Page 1](https://user-images.githubusercontent.com/111623064/216893162-252263a5-8dd4-4e9f-adda-c727af472a8d.png)
 
-- User Type: We can see that 81.07%% of riders are subscribers. If fare information becomes available in the future, I would recommend further analysis. Subscribers may receive a discounted rate, which would incentivize repeat customers to subscribe. 
-- Gender: We can see that 65.28% of riders are male. As we dive deeper into the data, we may be able to infer why more men than women are utilizing Citi Bike.
-
+Story Page 2
 ![Story Page 2](https://user-images.githubusercontent.com/111623064/216893193-058f47ec-2a01-4c37-9ff6-8934c60eeac6.png)
 
-- We can see that a majority of rides are 10 minutes or less. There are still a significant amount of rides between 10 and 30 minutes, however there are not many longer than that. We can see this trend for both men and woman riders. 
-
-
+Story Page 3
 ![Story Page 3](https://user-images.githubusercontent.com/111623064/216893217-33b65048-040c-43c4-a155-fcf5c03dcf89.png)
 
-- If we look at customers vs. subscribers, we don't see the same morning peak in riders for customers that we do for subscribers. This is likely because subscribers are using the bikes to get to and from work, while customers may be tourists visiting and using the bikes to go sightseeing. We can see that peak hours are typically standard commute times.
-
+Story Page 4
 ![Story Page 4](https://user-images.githubusercontent.com/111623064/216893218-395d350c-999c-4913-8586-8aa467f47121.png)
 
-- We can determine that the ending locations are slightly more varied. Looking at peak times in the previous slide, we can see that there are is a small increase in riders from the morning peak in riders and the evening peak in riders. Because of that increase, this variation makes sense as people are likely going home from concentrated areas downtown.
-
-## Summary: 
+## Summary & Reccomendations: 
 Based on our analysis, we can infer that a bike-sharing program in Des Moines could be both sucessful and profitable. There is a demand for both residents and tourists visiting. As we saw significantly more subscribers than customers, we can determine that we will have a steady flow of business from riders that may use the service to commute to and from work. In the future I would reccomend gaining additional data such as fares during peak hours and long term profits for additional visualizations. 
